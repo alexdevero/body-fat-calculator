@@ -40,8 +40,10 @@
   },
   "main": "main.js",
   "scripts": {
-    "start": "echo 'No starting script defined' exit;",
+    "start": "node server.js"
   },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
 }
