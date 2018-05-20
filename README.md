@@ -35,7 +35,7 @@ $ git clone https://github.com/alexdevero/body-fat-calculator.git
 ```
 
 ### Usage
-#### Run the calculator
+#### Run the calculator (on localhost:1337)
 
 ```
 npm run start
